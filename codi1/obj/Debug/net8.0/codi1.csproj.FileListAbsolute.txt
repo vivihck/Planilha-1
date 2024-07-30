@@ -1,0 +1,14 @@
+C:\Users\victoriasantos\source\repos\codi1\bin\Debug\net8.0\codi1.exe
+C:\Users\victoriasantos\source\repos\codi1\bin\Debug\net8.0\codi1.deps.json
+C:\Users\victoriasantos\source\repos\codi1\bin\Debug\net8.0\codi1.runtimeconfig.json
+C:\Users\victoriasantos\source\repos\codi1\bin\Debug\net8.0\codi1.dll
+C:\Users\victoriasantos\source\repos\codi1\bin\Debug\net8.0\codi1.pdb
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.AssemblyInfoInputs.cache
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.AssemblyInfo.cs
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.csproj.CoreCompileInputs.cache
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.dll
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\refint\codi1.dll
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.pdb
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\codi1.genruntimeconfig.cache
+C:\Users\victoriasantos\source\repos\codi1\obj\Debug\net8.0\ref\codi1.dll

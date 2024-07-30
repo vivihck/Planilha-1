@@ -1,0 +1,14 @@
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.AssemblyInfoInputs.cache
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.AssemblyInfo.cs
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.csproj.CoreCompileInputs.cache
+C:\Users\victoriasantos\source\repos\cod2\bin\Debug\net8.0\cod2.exe
+C:\Users\victoriasantos\source\repos\cod2\bin\Debug\net8.0\cod2.deps.json
+C:\Users\victoriasantos\source\repos\cod2\bin\Debug\net8.0\cod2.runtimeconfig.json
+C:\Users\victoriasantos\source\repos\cod2\bin\Debug\net8.0\cod2.dll
+C:\Users\victoriasantos\source\repos\cod2\bin\Debug\net8.0\cod2.pdb
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.dll
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\refint\cod2.dll
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.pdb
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\cod2.genruntimeconfig.cache
+C:\Users\victoriasantos\source\repos\cod2\obj\Debug\net8.0\ref\cod2.dll
